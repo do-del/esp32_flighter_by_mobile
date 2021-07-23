@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">del_fc_yolo</string>
+    <string name="angle_lab">Angle:</string>
+    <string name="power_lab">Power:</string>
+    <string name="direction_lab">Direc:</string>
+    <string name="none"></string>
+    <string name="front_lab">Front</string>
+    <string name="front_right_lab">Front-Right</string>
+    <string name="right_lab">Right</string>
+    <string name="right_bottom_lab">Right-Bottom</string>
+    <string name="bottom_lab">Bottom</string>
+    <string name="bottom_left_lab">Left-Bottom</string>
+    <string name="left_lab">Left</string>
+    <string name="left_front_lab">Front-Left</string>
+    <string name="center_lab">Center</string>
+    <string name="rights_lab">http://esp32_fc_del</string>
+    <string name="channel_1">Roll:</string>
+    <string name="channel_2">Pitch:</string>
+    <string name="channel_3">Throttle:</string>
+    <string name="channel_4">Yaw:</string>
+</resources>
